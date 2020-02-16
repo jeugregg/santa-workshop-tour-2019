@@ -12,7 +12,7 @@ santa-s-2019-starter-notebook.ipynb  notebook contains :
     Most of the python functions are numba optimized
 
 	VERSIONS :
-
+    V3.2: 15/02/2020 : fixe sps add-on extend range choices
     V3.1: 15/02/2020 : impove sps add-on
     V3.0: 12/02/2020 : add stochastic product search boost
     V2.1: 04/02/2020 : correction fun_vect_mut
