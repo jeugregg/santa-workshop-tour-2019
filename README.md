@@ -1,7 +1,11 @@
 # santa-workshop-tour-2019
  Kaggle competition santa-workshop-tour-2019 using a original development of Genetic Algorithm
  
-https://www.kaggle.com/c/santa-workshop-tour-2019/
+Competition : https://www.kaggle.com/c/santa-workshop-tour-2019/
+
+Shared Notebook on Kaggle : https://www.kaggle.com/jeugregg/santa-s-2019-original-genetic-algorithm-method 
+ 
+ This competition is about schedule optimization.
  
 santa-s-2019-starter-notebook.ipynb  notebook contains :
 
