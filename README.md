@@ -26,6 +26,7 @@ santa-s-2019-starter-notebook.ipynb  notebook contains :
     
 santa_gurobi_01.ipynb : Notebook about  Test Gurobi MIP Optimizer
 	
-	Totally resued from :  https://towardsdatascience.com/helping-santa-plan-with-mixed-integer-programming-mip-1951386a6ba5
+	 Reused with different seeds from :  
+	 https://towardsdatascience.com/helping-santa-plan-with-mixed-integer-programming-mip-1951386a6ba5
 
 
