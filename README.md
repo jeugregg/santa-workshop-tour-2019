@@ -1,11 +1,13 @@
 # santa-workshop-tour-2019
  Kaggle competition santa-workshop-tour-2019 using a original development of Genetic Algorithm
  
-Competition : https://www.kaggle.com/c/santa-workshop-tour-2019/
-
-Shared Notebook on Kaggle : https://www.kaggle.com/jeugregg/santa-s-2019-original-genetic-algorithm-method 
+ My shared Notebook on Kaggle : https://www.kaggle.com/jeugregg/santa-s-2019-original-genetic-algorithm-method 
+ 
+ Competition : https://www.kaggle.com/c/santa-workshop-tour-2019/
  
  This competition is about schedule optimization.
+ I compare my original method and Gurobi optimizer method.
+ You can read my report & presentation (in French) in [/doc/ folder](https://github.com/jeugregg/santa-workshop-tour-2019/tree/master/doc)
  
 santa-s-2019-starter-notebook.ipynb  notebook contains :
 
